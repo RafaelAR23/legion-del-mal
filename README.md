@@ -1,5 +1,5 @@
 # Legion del Mal
-Un repositorio para conquistar el mundo 2.0 XD
+Un repositorio para conquistar el mundo 2.0
 
 Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
